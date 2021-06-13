@@ -578,7 +578,7 @@ image::add-parameter.png[{half-width}]
 手順は「 <<image_output_operation>> 」の通りです。
 ファイル名は `bowling_score_class.svg` としましょう。
 
-指定した場所に指定した名前で保存すれば、 <<bowling_score_class_svg>> が、みなさんが作成したユースケース図で置き換わります。
+指定した場所に指定した名前で保存すれば、 <<bowling_score_class_svg>> が、みなさんが作成したクラス図で置き換わります。
 
 [[bowling_score_class_svg]]
 .【画像】みなさんの作成したクラス図
