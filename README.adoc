@@ -444,7 +444,7 @@ NOTE: ファイルがgitに追加できたら、一度コミットします。
 [[drawing_class_diagram]]
 ==== 作成するクラス図
 
-<<class_diagram_png>> のようなユースケース図を描きましょう。
+<<class_diagram_png>> のようなクラス図を描きましょう。
 
 [[class_diagram_png]]
 .ボーリングゲームとスコアのクラス図
