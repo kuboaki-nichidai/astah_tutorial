@@ -369,7 +369,7 @@ NOTE: ファイルがgitに追加できたら、一度コミットします。
 [[drawing_activity]]
 ==== 作成するアクティビティ図
 
-<<activity_png>> のようなユースケース図を描きましょう。
+<<activity_png>> のようなアクティビティ図を描きましょう。
 
 [[activity_png]]
 .「スコアを表示する」のアクティビティ図
@@ -582,7 +582,7 @@ image::add-parameter.png[{half-width}]
 
 [[bowling_score_class_svg]]
 .【画像】みなさんの作成したクラス図
-image::bowling_score_class.svg[ここにみなさんが作成したアクティビティ図が表示される, {tree-quarters-width}]
+image::bowling_score_class.svg[ここにみなさんが作成したクラス図が表示される, {tree-quarters-width}]
 
 [NOTE]
 --
